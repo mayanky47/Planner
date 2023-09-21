@@ -1,0 +1,18 @@
+Planner
+
+	Heading
+		description
+		
+			
+
+Dbms - sql(relational)
+language - c++
+
+
+--------------------------------------
+
+sql 
+
+	tables 
+		
+		Heading ( parent can be only 1) (child can be many)
